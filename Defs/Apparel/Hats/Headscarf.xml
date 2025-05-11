@@ -5,7 +5,7 @@
 		<label>headscarf</label>
 		<description>.</description>
 		<graphicData>
-			<texPath>Apparel/Hats/TA_Headscarf/TA_Headscarf_ico</texPath>
+			<texPath>Apparel/Hats/TA_HeadScarf/TA_Headscarf_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<possessionCount>1</possessionCount>
@@ -38,7 +38,7 @@
 			<bodyPartGroups>
 				<li>UpperHead</li>
 			</bodyPartGroups>
-			<wornGraphicPath>Apparel/Hats/TA_Headscarf/TA_Headscarf</wornGraphicPath>
+			<wornGraphicPath>Apparel/Hats/TA_HeadScarf/TA_Headscarf</wornGraphicPath>
 			<layers>
 				<li>Overhead</li>
 				<li>OnHead</li>

@@ -5,7 +5,7 @@
 		<label>nordic fur hood</label>
 		<description>.</description>
 		<graphicData>
-			<texPath>Apparel/Hats/TA_FurhatNordic/TA_FurhatNordic_ico</texPath>
+			<texPath>Apparel/Hats/TA_FurHatNordic/TA_FurhatNordic_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<costStuffCount>30</costStuffCount>
@@ -30,7 +30,7 @@
 			<bodyPartGroups>
 				<li>UpperHead</li>
 			</bodyPartGroups>
-			<wornGraphicPath>Apparel/Hats/TA_FurhatNordic/TA_FurhatNordic</wornGraphicPath>
+			<wornGraphicPath>Apparel/Hats/TA_FurHatNordic/TA_FurhatNordic</wornGraphicPath>
 			<layers>
 				<li>Overhead</li>
 			</layers>
